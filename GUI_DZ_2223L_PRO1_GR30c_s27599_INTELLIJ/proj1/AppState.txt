@@ -1,0 +1,139 @@
+*****************02:14:39
+Pociag "Express Maximus" ID: 16 stacja docelowa: Stacja: "Rybnik"
+ znajduje sie na stacji Stacja: "Rybnik"
+przejechal: 100.01% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Borowski Shipping Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Sikora Shipping Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Zalewski Transport Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Krupa Logistics Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Zielinski Shipping Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Adamczyk Transport Przewozi: 0kg towaru] [Wagon pocztowy: nadawca: Borowski Shipping Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Gorski Freight Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Krysztalowy Pociag" ID: 17 stacja docelowa: Stacja: "Oborniki Śląskie"
+ znajduje sie na stacji Stacja: "Gdynia Główna"
+przejechal: 90.62% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Gorski Freight Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Grabowski Shipping Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Wójcik Haulage Przewozi: 0kg towaru] [Wagon restauracyjny: nadawca: Wrona Trucking Przewozi: 0 osob i 0kg towaru] [Wagon restauracyjny: nadawca: Zalewski Transport Przewozi: 0 osob i 0kg towaru] [Wagon restauracyjny: nadawca: Kaczorowski Trucking Przewozi: 0 osob i 0kg towaru] 
+
+Pociag "Spokojna strzala" ID: 23 stacja docelowa: Stacja: "Pszczółki"
+ jedzie z predkoscia 127.66
+ miedzy stacjami: Stacja: "Nakło nad Notecią" a Stacja: "Pszczółki"
+przejechal 9.77% tej trasy, co stanowi 61.47% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Kołodziej Distribution Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Witkowski Freight Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Głowacki Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Pawlikowski Distribution Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Zalewski Transport Przewozi: 0kg toksyn] [Wagon pasazerski: nadawca: Kwiatkowski Express Przewozi 0 osob] [Wagon pocztowy: nadawca: Piotrowski Haulage Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Adamski Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Rutkowski Trucking Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Malinowski Freight Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Kolejowa Blyskawica" ID: 25 stacja docelowa: Stacja: "Ruda Śląska"
+ znajduje sie na stacji Stacja: "Nowe Drezdenko"
+przejechal: 54.34% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Rutkowski Trucking Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Jaworski Express Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Krawczyk Logistics Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Pawlak Trucking Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Wrona Trucking Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Pawlak Trucking Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Szymanski Shipping Przewozi: 0kg toksyn] [Wagon bagazowo-pocztowy: nadawca: Pawlowski Shipping Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Kołodziej Distribution Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Dynamiczny Express" ID: 5 stacja docelowa: Stacja: "Wasilków"
+ jedzie z predkoscia 135.56
+ miedzy stacjami: Stacja: "Włocławek Zazamcze" a Stacja: "Przeworsk"
+przejechal 18.4% tej trasy, co stanowi 52.82% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Piotrowski Haulage Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Michalak Transport Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Bak Trucking Przewozi 0 osob] [Wagon pasazerski: nadawca: Sikora Shipping Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Pietrzak Freight Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Kasprzyk Logistics Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Michalak Transport Przewozi: 0kg toksyn] [Wagon bagazowo-pocztowy: nadawca: Marciniak Express Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Rutkowski Trucking Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Adamski Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Lsnaca Lokomotywa" ID: 19 stacja docelowa: Stacja: "inowrocław"
+ znajduje sie na stacji Stacja: "Radziwiłłów Mazowiecki"
+przejechal: 48.53% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Czajka Cargo Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Kasprzyk Logistics Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Krawczyk Logistics Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Gorski Freight Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Czerwinski Haulage Przewozi: 0kg towaru] [Wagon restauracyjny: nadawca: Kaczmarek Express Przewozi: 0 osob i 0kg towaru] [Wagon bagazowo-pocztowy: nadawca: Górecki Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Krawczyk Logistics Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Szynowy Supersonic" ID: 9 stacja docelowa: Stacja: "Zbąszyń"
+ znajduje sie na stacji Stacja: "Radziwiłłów Mazowiecki"
+przejechal: 43.32% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Krawczyk Logistics Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Kasprzyk Logistics Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Głowacki Logistics Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Zalewski Transport Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Urbanski Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Bak Trucking Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Pawlowski Shipping Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Mazur Freight Przewozi: 0kg toksyn] [Wagon bagazowo-pocztowy: nadawca: Sikora Shipping Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Szymanski Shipping Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Mega Express" ID: 10 stacja docelowa: Stacja: "Wieliczka Park"
+ jedzie z predkoscia 135.56
+ miedzy stacjami: Stacja: "Wierzchucin" a Stacja: "Nowe Drezdenko"
+przejechal 42.3% tej trasy, co stanowi 41.82% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Zielinski Shipping Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Pawlowski Shipping Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Pietrzak Freight Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Krupa Logistics Przewozi: 0kg towaru] [Wagon pocztowy: nadawca: Kaczorowski Trucking Przewozi 0 sztuk paczek] 
+
+Pociag "Oplywowy Express" ID: 22 stacja docelowa: Stacja: "Bydgoszcz Wschód"
+ jedzie z predkoscia 143.94
+ miedzy stacjami: Stacja: "Nałęczów" a Stacja: "Pleszew"
+przejechal 59.97% tej trasy, co stanowi 37.54% calej trasy
+podlaczone wagony [Wagon na materialy gazowe: nadawca: Pawlikowski Distribution Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Wronski Express Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Wrobel Shipping Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Pawlikowski Distribution Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Mazurek Logistics Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Wojciechowski Transport Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Kowalski Transport Przewozi: 0kg towaru] 
+
+Pociag "Skrzydla Kolej" ID: 12 stacja docelowa: Stacja: "Sosnowiec Maczki"
+ jedzie z predkoscia 143.94
+ miedzy stacjami: Stacja: "Warka" a Stacja: "Zbąszyń"
+przejechal 8.35% tej trasy, co stanowi 35.99% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Nowacki Transport Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Pawlak Trucking Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Kołodziej Distribution Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Malinowski Freight Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Mielczarek Haulage Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Krupa Logistics Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Mielczarek Haulage Przewozi 0 osob] [Wagon restauracyjny: nadawca: Marciniak Express Przewozi: 0 osob i 0kg towaru] [Wagon bagazowo-pocztowy: nadawca: Kwiatkowski Express Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Powietrzny Pociag" ID: 18 stacja docelowa: Stacja: "Nowa Wieś Mochy"
+ znajduje sie na stacji Stacja: "Toruń Miasto"
+przejechal: 31.7% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Wronski Express Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Adamski Transport Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Witkowski Freight Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Pietrzak Freight Przewozi: 0kg toksyn] [Wagon pasazerski: nadawca: Bak Trucking Przewozi 0 osob] [Wagon pasazerski: nadawca: Wrona Trucking Przewozi 0 osob] [Wagon na materialy toksyczne: nadawca: Duda Cargo Przewozi: 0kg toksyn] [Wagon pocztowy: nadawca: Kaczorowski Trucking Przewozi 0 sztuk paczek] [Wagon pocztowy: nadawca: Piotrowski Haulage Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Pawlowski Shipping Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Mazurek Logistics Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Zloty Express" ID: 3 stacja docelowa: Stacja: "Opole Groszowice"
+ znajduje sie na stacji Stacja: "Rybnik Niedobczyce"
+przejechal: 24.11% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Wrona Trucking Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Wrobel Shipping Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Pawlowski Shipping Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Sobczak Distribution Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Jaworski Express Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Mazurek Logistics Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Zalewski Transport Przewozi: 0kg toksyn] [Wagon pocztowy: nadawca: Grabowski Shipping Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Górecki Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Kaskadowy Kolejorz" ID: 15 stacja docelowa: Stacja: "Nakło nad Notecią"
+ jedzie z predkoscia 143.94
+ miedzy stacjami: Stacja: "Ruda Śląska" a Stacja: "Nowe Drezdenko"
+przejechal 12.85% tej trasy, co stanowi 19.52% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Bak Trucking Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Zielinski Shipping Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Nowacki Transport Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Klimczak Freight Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Kowalski Transport Przewozi: 0kg toksyn] [Wagon pasazerski: nadawca: Adamczyk Transport Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Mazur Freight Przewozi: 0kg toksyn] [Wagon restauracyjny: nadawca: Mielczarek Haulage Przewozi: 0 osob i 0kg towaru] 
+
+Pociag "Fioletowa rakieta" ID: 20 stacja docelowa: Stacja: "Sosnowiec Maczki"
+ znajduje sie na stacji Stacja: "Rogów"
+przejechal: 15.91% calej trasy
+podlaczone wagony [Wagon chlodniczy: nadawca: Zielinski Shipping Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Głowacki Logistics Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Czajka Cargo Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Olszewski Haulage Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Szymanski Shipping Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Adamski Transport Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Kaczorowski Trucking Przewozi: 0kg towaru] [Wagon restauracyjny: nadawca: Wróblewski Cargo Przewozi: 0 osob i 0kg towaru] [Wagon restauracyjny: nadawca: Pawlikowski Distribution Przewozi: 0 osob i 0kg towaru] [Wagon pocztowy: nadawca: Mazur Freight Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Bak Trucking Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Szymczak Haulage Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Szybki Ekspres" ID: 1 stacja docelowa: Stacja: "Rokietnica"
+ znajduje sie na stacji Stacja: "Wolin"
+przejechal: 13.6% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Kaczmarek Express Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Duda Cargo Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Adamski Transport Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Gorski Freight Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Piotrowski Haulage Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Gorski Freight Przewozi: 0kg toksyn] [Wagon bagazowo-pocztowy: nadawca: Nowacki Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] [Wagon bagazowo-pocztowy: nadawca: Sobczak Distribution Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Ekskluzywny Express" ID: 11 stacja docelowa: Stacja: "Poznań Główny"
+ jedzie z predkoscia 143.94
+ miedzy stacjami: Stacja: "Łódź Fabryczna" a Stacja: "Chorzew "
+przejechal 86.99% tej trasy, co stanowi 13.75% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Pawlikowski Distribution Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Piotrowski Haulage Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Mazur Freight Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Zielinski Shipping Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Michalak Transport Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Czajka Cargo Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Sobczak Distribution Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Lewandowski Cargo Przewozi: 0kg toksyn] [Wagon restauracyjny: nadawca: Wrona Trucking Przewozi: 0 osob i 0kg towaru] 
+
+Pociag "Transkontynentalny poskramiacz" ID: 24 stacja docelowa: Stacja: "Rokietnica"
+ znajduje sie na stacji Stacja: "Gniezno"
+przejechal: 10.61% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Sobczak Distribution Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Wrona Trucking Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Czerwinski Haulage Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Witkowski Freight Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Bak Trucking Przewozi: 0kg toksyn] [Wagon na ciekle materialy toksyczne: nadawca: Wrona Trucking Przewozi: 0kg toksyn] [Wagon restauracyjny: nadawca: Górecki Transport Przewozi: 0 osob i 0kg towaru] [Wagon pocztowy: nadawca: Klimczak Freight Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Pietrzak Freight Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Srebrna Strzala" ID: 13 stacja docelowa: Stacja: "Nowe Drezdenko"
+ znajduje sie na stacji Stacja: "Wasilków"
+przejechal: 10.24% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon towarowy ciezki: nadawca: Szymczak Haulage Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Mielczarek Haulage Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Adamczyk Transport Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Pawlowski Shipping Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Pietrzak Freight Przewozi: 0kg towaru] [Wagon restauracyjny: nadawca: Krawczyk Logistics Przewozi: 0 osob i 0kg towaru] [Wagon pocztowy: nadawca: Wrobel Shipping Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Mazurek Logistics Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Gwiazda Polnocy" ID: 2 stacja docelowa: Stacja: "Oborzyska Stare"
+ jedzie z predkoscia 152.84
+ miedzy stacjami: Stacja: "Oborniki Śląskie" a Stacja: "Chorzew "
+przejechal 48.66% tej trasy, co stanowi 8.57% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Malinowski Freight Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Gorski Freight Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Pawlak Trucking Przewozi 0 osob] [Wagon pocztowy: nadawca: Adamski Transport Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Gorski Freight Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Rakieta Kolejowa" ID: 7 stacja docelowa: Stacja: "Siemkowice"
+ znajduje sie na stacji Stacja: "Rogów"
+przejechal: 5.11% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Lewandowski Cargo Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Kaczorowski Trucking Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Pawlak Trucking Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Duda Cargo Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Czajka Cargo Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Urbanski Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Grabowski Shipping Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Mazur Freight Przewozi 0 osob] [Wagon pasazerski: nadawca: Lewandowski Cargo Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Nowacki Transport Przewozi: 0kg toksyn] [Wagon na ciekle materialy toksyczne: nadawca: Mazurek Logistics Przewozi: 0kg toksyn] [Wagon bagazowo-pocztowy: nadawca: Michalak Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Promien Predkosci" ID: 6 stacja docelowa: Stacja: "Tychy"
+ jedzie z predkoscia 152.84
+ miedzy stacjami: Stacja: "Radom" a Stacja: "Skierniewice"
+przejechal 5.7% tej trasy, co stanowi 3.44% calej trasy
+podlaczone wagony [Wagon towarowy ciezki: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Jankowski Distribution Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Kołodziej Distribution Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Malinowski Freight Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Adamski Transport Przewozi 0 osob] [Wagon restauracyjny: nadawca: Piotrowski Haulage Przewozi: 0 osob i 0kg towaru] [Wagon bagazowo-pocztowy: nadawca: Zalewski Transport Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "TurboExpres" ID: 4 stacja docelowa: Stacja: "Sosnowiec Główny"
+ jedzie z predkoscia 143.94
+ miedzy stacjami: Stacja: "Ostrowie Biebrzańskie" a Stacja: "Wolin"
+przejechal 79.55% tej trasy, co stanowi 3.26% calej trasy
+podlaczone wagony [Wagon chlodniczy: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Wojciechowski Transport Przewozi: 0kg towaru] [Wagon na materialy wybuchowe: nadawca: Pawlowski Shipping Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Wronski Express Przewozi: 0kg toksyn] [Wagon na ciekle materialy toksyczne: nadawca: Jankowski Distribution Przewozi: 0kg toksyn] [Wagon pocztowy: nadawca: Duda Cargo Przewozi 0 sztuk paczek] [Wagon bagazowo-pocztowy: nadawca: Lewandowski Cargo Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+Pociag "Horyzontalny Huragan" ID: 8 stacja docelowa: Stacja: "Leszno"
+ znajduje sie na stacji Stacja: "Władysławowo"
+przejechal: 2.79% calej trasy
+podlaczone wagony [Wagon na materialy gazowe: nadawca: Michalak Transport Przewozi: 0kg towaru] [Wagon chlodniczy: nadawca: Wróblewski Cargo Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Marciniak Express Przewozi: 0kg towaru] [Wagon na materialy toksyczne: nadawca: Witkowski Freight Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Jaworski Express Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Wrobel Shipping Przewozi: 0kg toksyn] [Wagon na materialy toksyczne: nadawca: Krawczyk Logistics Przewozi: 0kg toksyn] [Wagon na ciekle materialy toksyczne: nadawca: Wronski Express Przewozi: 0kg toksyn] [Wagon na materialy wybuchowe: nadawca: Krupa Logistics Przewozi: 0kg towaru] [Wagon restauracyjny: nadawca: Szymczak Haulage Przewozi: 0 osob i 0kg towaru] 
+
+Pociag "Magnetyczny pocisk" ID: 21 stacja docelowa: Stacja: "Rumia"
+ jedzie z predkoscia 162.3
+ miedzy stacjami: Stacja: "Pszczółki" a Stacja: "Roztoki Bystrzyckie"
+przejechal 80.0% tej trasy, co stanowi 3.1% calej trasy
+podlaczone wagony [Wagon towarowy: nadawca: Górecki Transport Przewozi: 0kg towaru] [Wagon towarowy: nadawca: Kwiatkowski Express Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Witkowski Freight Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Jaworski Express Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Witkowski Freight Przewozi: 0kg towaru] [Wagon pasazerski: nadawca: Kaczmarek Express Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Pietrzak Freight Przewozi: 0kg toksyn] [Wagon pasazerski: nadawca: Kwiatkowski Express Przewozi 0 osob] [Wagon pasazerski: nadawca: Wojciechowski Transport Przewozi 0 osob] 
+
+Pociag "Wedrowiec Zmierzchu" ID: 14 stacja docelowa: Stacja: "Rumia"
+ jedzie z predkoscia 127.66
+ miedzy stacjami: Stacja: "Płociczno koło Suwałk" a Stacja: "Wołczyn"
+przejechal 10.76% tej trasy, co stanowi 1.89% calej trasy
+podlaczone wagony [Wagon na materialy gazowe: nadawca: Kaczmarek Express Przewozi: 0kg towaru] [Wagon na materialy gazowe: nadawca: Krupa Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Nowak Logistics Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Sikora Shipping Przewozi: 0kg towaru] [Wagon na materialy ciekle: nadawca: Zalewski Transport Przewozi: 0kg towaru] [Wagon na ciekle materialy toksyczne: nadawca: Szymanski Shipping Przewozi: 0kg toksyn] [Wagon na ciekle materialy toksyczne: nadawca: Głowacki Logistics Przewozi: 0kg toksyn] [Wagon pasazerski: nadawca: Szymczak Haulage Przewozi 0 osob] [Wagon na ciekle materialy toksyczne: nadawca: Szymanski Shipping Przewozi: 0kg toksyn] [Wagon restauracyjny: nadawca: Sobczak Distribution Przewozi: 0 osob i 0kg towaru] [Wagon restauracyjny: nadawca: Urbanski Logistics Przewozi: 0 osob i 0kg towaru] [Wagon bagazowo-pocztowy: nadawca: Marciniak Express Przewozi: 0 sztuk paczek i 0 sztuk bagazu] 
+
+-------------------------------------------------------------
